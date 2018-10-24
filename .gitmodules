@@ -1,0 +1,3 @@
+[submodule "docker-install"]
+	path = docker-install
+	url = https://github.com/theabarnes/docker-install.git
